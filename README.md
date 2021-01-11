@@ -5,6 +5,7 @@ https://github.com/auspicious3000/autovc
 这个是one-hot speaker embedding 版本
 尝试超参:
 https://mp.csdn.net/editor/html/112466875
+a
 
 ## AUTOVC: Zero-Shot Voice Style Transfer with Only Autoencoder Loss
 
